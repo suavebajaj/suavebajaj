@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suavebajaj
 - 👀 I’m interested in Cloud Computing and DevOps
 - 🌱 I’m currently learning Cloud Techonologies and Orchestration 
-- 💞️ I’m looking to collaborate on k8s, Dokcer, GCP, AWS, terraform
+- 💞️ I’m looking to collaborate on k8s, Docker, GCP, AWS, terraform
 - 📫 Reach me @ bajajsuave@gmail.com
 
 <!---
