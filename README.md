@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suave Bajaj</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suavebajaj&label=Profile%20views&color=0e75b6&style=flat" alt="suavebajaj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suavebajaj&no-frame=true&no-bg=true&theme=oldie" alt="suavebajaj" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suavebajaj&no-frame=true&no-bg=false&theme=oldie" alt="suavebajaj" /></a> </p>
 
 - 🔭 I’m currently working in **Cloud Computing and DevOps**
 
